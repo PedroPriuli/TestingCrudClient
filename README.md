@@ -1,5 +1,5 @@
 # TestingCrudClient
-Projeto de teste da desenvolvimento
+Projeto de teste de desenvolvimento de software
 
 
 # Wiki da documentação do projeto
