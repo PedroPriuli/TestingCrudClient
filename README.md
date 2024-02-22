@@ -8,4 +8,7 @@ https://dev.azure.com/pedropriuli/TestingCrudClient/_wiki/wikis/TestingCrudClien
 # Repositório do projeto completo
 https://dev.azure.com/pedropriuli/_git/TestingCrudClient
 
+# Duvidas
+deixe comentários
+
 
